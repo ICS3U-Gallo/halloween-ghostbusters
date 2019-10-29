@@ -1,0 +1,4 @@
+score = 0
+for i in range(y-20, 7+20):
+    if button_pressed == i:
+        score += 20
